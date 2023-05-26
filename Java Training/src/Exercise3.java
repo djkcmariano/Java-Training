@@ -31,6 +31,10 @@ public class Exercise3 {
 			if (choice.equalsIgnoreCase("A")) {
 				System.out.println("Compute for Density");
 				
+				//this is for testing only
+				System.out.println("Test Modification");
+				// end test
+
 				System.out.print("Mass (g) : ");
 				mass = massScanner.nextDouble();
 				System.out.print("Volume (cm^3) : ");
